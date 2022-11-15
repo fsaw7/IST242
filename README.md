@@ -1,1 +1,1 @@
-# IST242
+# IST242 Intermediate & Object-Oriented Application Development
